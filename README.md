@@ -1,6 +1,8 @@
 # WDM-Ex-NO-8-Web-Scraping-On-e-commerce-platform-using-BeautifulSoup
+## Name : Yazhini E 
+## Reg.no.: 2305002028
 **Web Scraping On E-commerce platform using BeautifulSoup**<br>
-**DATE:**<br>
+
 **AIM:**<br>
 To perform Web Scraping on Amazon using (beautifulsoup) Python.<br>
 **Description:**<br>
@@ -72,4 +74,7 @@ else:
     print('No products found.')
 ```
 **Output:**<br>
+<img width="875" height="496" alt="image" src="https://github.com/user-attachments/assets/9deb2367-04bf-4040-a762-51f224ffe301" />
+
 **Result:**
+Web Scraping On E-commerce platform using BeautifulSoup is implemented.
